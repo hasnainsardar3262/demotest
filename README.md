@@ -1,2 +1,1 @@
-# demotest
-This is the testing site.
+Static site build with HTML, CSS, JS
